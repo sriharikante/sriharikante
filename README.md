@@ -33,23 +33,44 @@
 # 🚀 Featured Projects
 
 ## 💎 HJ Jewels
-Responsive luxury jewellery website built using React.js.
+Responsive luxury jewellery e-commerce website built using React.js, featuring product collections and category-based browsing.
 🔗 https://github.com/sriharikante/HJ-Jewels
 **Tech:** `React.js` `JavaScript` `CSS3`
 
 ---
 
 ## 💰 Expense Tracker
-Expense tracking web application with Spring Boot REST APIs.
+Full-stack expense tracking web application with secure login/signup, form validation, and Spring Boot REST APIs for real-time data management.
 🔗 https://github.com/sriharikante/Expense-tracker
-**Tech:** `JavaScript` `Spring Boot` `REST API`
+**Tech:** `Java` `Spring Boot` `REST API`
 
 ---
 
 ## 📈 Vehicle Analytics Dashboard
-Interactive dashboard built using Streamlit.
+Interactive Streamlit dashboard for analyzing Indian vehicle market trends using Vahan data.
 🔗 https://github.com/sriharikante/vehicle-analytics-dashboard
 **Tech:** `Python` `Streamlit`
+
+---
+
+## 🏏 IPL Winner Prediction
+A machine learning project that predicts IPL match outcomes based on historical match data and team statistics.
+🔗 https://github.com/sriharikante/IPL_Winner_Prediction
+**Tech:** `Python` `Machine Learning`
+
+---
+
+## 🏫 School API
+A REST API built for managing school-related data and operations, with structured endpoints for CRUD functionality.
+🔗 https://github.com/sriharikante/School-api
+**Tech:** `JavaScript` `Node.js` `REST API`
+
+---
+
+## 🌐 Personal Portfolio
+My personal portfolio website showcasing projects, skills, and experience.
+🔗 https://github.com/sriharikante/sriharii-portfolio
+**Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
