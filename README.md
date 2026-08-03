@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+|+Node.js+|+Express.js+|+MySQL;Building+Responsive+Web+Applications;Always+Learning+🚀" alt="Typing SVG"/>
 
 <h3>💻 Junior Full Stack Web Developer</h3>
