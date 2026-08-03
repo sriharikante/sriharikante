@@ -1,85 +1,135 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA6F5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srihari+%F0%9F%91%8B;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA6F5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Srihari+Kante+%F0%9F%91%8B;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Responsive+Web+Applications;Open+to+Frontend+%26+Full+Stack+Roles" />
+
+<h3>🚀 Full Stack Web Developer | React.js | Node.js | JavaScript</h3>
+
+<p>
+Building responsive, scalable, and user-friendly web applications.
+</p>
+
+<a href="https://www.linkedin.com/in/sriharikante">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
+<a href="mailto:kantesrihari1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<a href="https://github.com/sriharikante">
+<img src="https://img.shields.io/github/followers/sriharikante?label=Follow&style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Currently working as a **Junior Developer** at **Credencer Technologies**, building and optimizing full-stack web applications
-- 🌱 Exploring AI/ML and figuring out how it fits into modern full-stack development
-- 🎯 Actively looking for **Frontend / Full Stack Developer** opportunities
-- 💬 Ask me about: React, JavaScript, REST APIs, responsive design
-- 📫 Reach me: kantesrihari1@gmail.com
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sriharikante" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kantesrihari1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+- 💼 Junior Web Developer at **Credencer Technologies**
+- 🌱 Learning **Full Stack Development & AI**
+- 🚀 Building responsive web applications using **React.js, Node.js, Express.js & MySQL**
+- 💬 Ask me about **React, JavaScript, REST APIs, Responsive Design**
+- 🎯 Open to **Frontend Developer** & **Full Stack Developer** opportunities
+- 📍 Eluru, Andhra Pradesh, India
 
 ---
 
-### 🚀 Projects
+# 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>💎 HJ Jewels – Luxury Jewellery Website</h4>
-      <p>Responsive e-commerce site built with React.js, featuring product collections and category-based browsing. Implemented state management for product filtering and reusable components for a consistent UI across devices.</p>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>💰 Expense Tracker</h4>
-      <p>Full-stack expense tracking app with secure login/signup, form validation, and real-time data management via REST APIs.</p>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mysql,git,github,postman,java,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mysql,git,github,postman,java,python,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 💎 HJ Jewels – Luxury Jewellery Website
+
+🔗 **Repository:** https://github.com/sriharikante/HJ-Jewels
+
+Responsive luxury jewellery website built using **React.js**.
+
+### Features
+
+- Responsive UI
+- Category-wise product browsing
+- Reusable React Components
+- Modern UI Design
+
+**Tech Stack**
+
+`React.js` `JavaScript` `CSS3`
+
+---
+
+## 💰 Expense Tracker
+
+🔗 **Repository:** https://github.com/sriharikante/Expense-tracker
+
+Expense tracking application with authentication and REST API integration.
+
+### Features
+
+- Secure Login & Signup
+- Form Validation
+- Expense Management
+- Responsive UI
+
+**Tech Stack**
+
+`JavaScript` `Spring Boot` `REST API`
+
+---
+
+## 📈 Vehicle Analytics Dashboard
+
+🔗 https://github.com/sriharikante/vehicle-analytics-dashboard
+
+Interactive Streamlit dashboard for analyzing Indian vehicle market trends.
+
+**Tech Stack**
+
+`Python` `Streamlit`
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=sriharikante&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharikante&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sriharikante&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 ---
 
 <div align="center">
 
-  <img src="https://profile-counter.glitch.me/sriharikante/count.svg" alt="visitor badge" />
+<img src="https://komarev.com/ghpvc/?username=sriharikante&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-  ⭐️ Open to connecting with fellow developers and recruiters — feel free to reach out!
+### ⭐️ Open to collaborating on exciting projects and connecting with developers & recruiters!
 
 </div>
