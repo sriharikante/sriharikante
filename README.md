@@ -1,8 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Responsive+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+|+Node.js+|+Express.js+|+MySQL;Building+Responsive+Web+Applications;Always+Learning+🚀" alt="Typing SVG"/>
 
 <h3>💻 Junior Full Stack Web Developer</h3>
 
@@ -12,19 +12,19 @@ Passionate about building responsive, scalable and user-friendly web application
 
 <p>
 <a href="https://www.linkedin.com/in/sriharikante">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kantesrihari1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://https://sriharikante-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://sriharikante-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sriharikante">
-<img src="https://img.shields.io/github/followers/sriharikante?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/sriharikante?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
