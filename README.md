@@ -126,21 +126,29 @@ Portfolio website showcasing projects and skills.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sriharikante&theme=tokyonight" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=sriharikante&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sriharikante&theme=tokyonight" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sriharikante&theme=tokyonight" width="48%" />
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sriharikante&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sriharikante&theme=tokyonight&utcOffset=5.5" width="48%" />
+
+</p>
 ---
 
 # 📈 Contribution Graph
