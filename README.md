@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2EA6F5&center=true&vCenter=true&repeat=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Responsive+and+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h3>💻 Junior Full Stack Web Developer</h3>
+<h2>💻 Junior Full Stack Web Developer</h2>
 
 <p>
-Building responsive, scalable, and user-friendly web applications.
+Passionate about building responsive, scalable and user-friendly web applications.
 </p>
 
 <p>
@@ -33,12 +33,12 @@ Building responsive, scalable, and user-friendly web applications.
 
 # 👨‍💻 About Me
 
-- 💼 Junior Web Developer at **Credencer Technologies**
-- 🚀 Building responsive web applications using **React.js, Node.js, Express.js & MySQL**
-- 🌱 Currently learning **AI**, **Java**, and scalable Full Stack Development
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, REST APIs**
-- 🎯 Open to **Frontend** and **Full Stack Developer** opportunities
-- 📍 Eluru, Andhra Pradesh, India
+* 💼 Junior Web Developer at **Credencer Technologies**
+* 🚀 Building responsive web applications using **React.js, Node.js, Express.js & MySQL**
+* 🌱 Currently learning **AI**, **Java**, and scalable Full Stack Development
+* 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, REST APIs**
+* 🎯 Open to **Frontend Developer** and **Full Stack Developer** opportunities
+* 📍 Eluru, Andhra Pradesh, India
 
 ---
 
@@ -46,9 +46,9 @@ Building responsive, scalable, and user-friendly web applications.
 
 ## 💎 HJ Jewels
 
-Responsive luxury jewellery website built with React.js featuring reusable components and category-based browsing.
+Responsive luxury jewellery website built using React.js featuring reusable components and category-based browsing.
 
-🔗 **Repository:** https://github.com/sriharikante/HJ-Jewels
+🔗 Repository: https://github.com/sriharikante/HJ-Jewels
 
 **Tech Stack**
 
@@ -58,9 +58,9 @@ Responsive luxury jewellery website built with React.js featuring reusable compo
 
 ## 💰 Expense Tracker
 
-Expense tracking web application with authentication, validation and Spring Boot REST API integration.
+Expense tracking application with authentication, form validation and Spring Boot REST API integration.
 
-🔗 **Repository:** https://github.com/sriharikante/Expense-tracker
+🔗 Repository: https://github.com/sriharikante/Expense-tracker
 
 **Tech Stack**
 
@@ -72,7 +72,7 @@ Expense tracking web application with authentication, validation and Spring Boot
 
 Interactive Streamlit dashboard for analyzing Indian vehicle market trends.
 
-🔗 **Repository:** https://github.com/sriharikante/vehicle-analytics-dashboard
+🔗 Repository: https://github.com/sriharikante/vehicle-analytics-dashboard
 
 **Tech Stack**
 
@@ -82,9 +82,9 @@ Interactive Streamlit dashboard for analyzing Indian vehicle market trends.
 
 ## 🏏 IPL Winner Prediction
 
-Machine Learning model for predicting IPL match winners.
+Machine Learning model for predicting IPL match outcomes.
 
-🔗 **Repository:** https://github.com/sriharikante/IPL_Winner_Prediction
+🔗 Repository: https://github.com/sriharikante/IPL_Winner_Prediction
 
 **Tech Stack**
 
@@ -96,7 +96,7 @@ Machine Learning model for predicting IPL match winners.
 
 REST API for managing school data.
 
-🔗 **Repository:** https://github.com/sriharikante/School-api
+🔗 Repository: https://github.com/sriharikante/School-api
 
 **Tech Stack**
 
@@ -106,9 +106,9 @@ REST API for managing school data.
 
 ## 🌐 Personal Portfolio
 
-Portfolio website showcasing projects and skills.
+Portfolio website showcasing my projects and skills.
 
-🔗 **Repository:** https://github.com/sriharikante/sriharii-portfolio
+🔗 Repository: https://github.com/sriharikante/sriharii-portfolio
 
 **Tech Stack**
 
@@ -126,36 +126,20 @@ Portfolio website showcasing projects and skills.
 
 ---
 
-# 📊 GitHub Overview
+# 📌 Currently Working On
 
-<p align="center">
+* 🚀 Building modern full-stack web applications using **React.js**, **Node.js**, and **MySQL**
+* 📚 Practicing **Data Structures & Algorithms** in Java
+* 🤖 Exploring **AI integration** into web applications
+* 🌐 Continuously improving my portfolio and open-source projects
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sriharikante&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sriharikante&theme=tokyonight" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sriharikante&theme=tokyonight" width="48%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sriharikante&theme=tokyonight" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sriharikante&theme=tokyonight&utcOffset=5.5" width="48%" />
-
-</p>
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharikante&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharikante&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -183,8 +167,10 @@ Portfolio website showcasing projects and skills.
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## ⭐ Thanks for visiting!
 
-Always learning • Always building • Always improving 🚀
+**Always learning • Always building • Always improving 🚀**
+
+Feel free to connect or collaborate on exciting projects.
 
 </div>
