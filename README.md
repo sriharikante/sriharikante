@@ -128,24 +128,19 @@ Portfolio website showcasing projects and skills.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=sriharikante&theme=tokyonight&hide_border=true" />
 
-<p align="center">
+</div>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharikante&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+</div>
 ---
 
 # 📈 Contribution Graph
