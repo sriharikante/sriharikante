@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Srihari+Kante;Full+Stack+Web+Developer;React.js+|+Node.js+|+Express.js+|+MySQL;Building+Responsive+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+|+Node.js+|+Express.js+|+MySQL;Building+Responsive+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
 
-<h3>💻 Full Stack Web Developer</h3>
+<h3>💻 Junior Full Stack Web Developer</h3>
 
 <p>
-Building responsive, scalable and user-friendly web applications.
+Passionate about building responsive, scalable and user-friendly web applications.
 </p>
 
+<p>
 <a href="https://www.linkedin.com/in/sriharikante">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,9 +17,14 @@ Building responsive, scalable and user-friendly web applications.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/sriharikante">
 <img src="https://img.shields.io/github/followers/sriharikante?style=for-the-badge"/>
 </a>
+</p>
 
 </div>
 
@@ -28,9 +34,9 @@ Building responsive, scalable and user-friendly web applications.
 
 - 💼 Junior Web Developer at **Credencer Technologies**
 - 🚀 Building responsive web applications using **React.js, Node.js, Express.js & MySQL**
-- 🌱 Currently learning **AI, Java & Advanced Full Stack Development**
+- 🌱 Currently exploring **AI integration**, **Java**, and scalable full-stack development
 - 💬 Ask me about **React.js, JavaScript, REST APIs, Node.js**
-- 🎯 Open to **Frontend** & **Full Stack Developer** opportunities
+- 🎯 Open to **Frontend Developer** and **Full Stack Developer** opportunities
 - 📍 Eluru, Andhra Pradesh, India
 
 ---
@@ -39,11 +45,11 @@ Building responsive, scalable and user-friendly web applications.
 
 ## 💎 HJ Jewels
 
-🔗 **Repository:** <https://github.com/sriharikante/HJ-Jewels>
+Responsive luxury jewellery e-commerce website built with React.js featuring reusable components and category-based browsing.
 
-Responsive luxury jewellery e-commerce website built using React.js with reusable components and category-based browsing.
+🔗 **Repository:** [HJ Jewels](https://github.com/sriharikante/HJ-Jewels)
 
-**Tech**
+**Tech Stack**
 
 `React.js` `JavaScript` `CSS3`
 
@@ -51,11 +57,11 @@ Responsive luxury jewellery e-commerce website built using React.js with reusabl
 
 ## 💰 Expense Tracker
 
-🔗 **Repository:** <https://github.com/sriharikante/Expense-tracker>
+Full-stack expense tracking application with authentication, form validation and Spring Boot REST API integration.
 
-Expense tracking application with secure authentication and Spring Boot REST API integration.
+🔗 **Repository:** [Expense Tracker](https://github.com/sriharikante/Expense-tracker)
 
-**Tech**
+**Tech Stack**
 
 `Java` `Spring Boot` `REST API`
 
@@ -63,11 +69,11 @@ Expense tracking application with secure authentication and Spring Boot REST API
 
 ## 📈 Vehicle Analytics Dashboard
 
-🔗 **Repository:** <https://github.com/sriharikante/vehicle-analytics-dashboard>
+Interactive dashboard for analyzing Indian vehicle market trends using Streamlit.
 
-Interactive Streamlit dashboard for Indian vehicle analytics.
+🔗 **Repository:** [Vehicle Analytics Dashboard](https://github.com/sriharikante/vehicle-analytics-dashboard)
 
-**Tech**
+**Tech Stack**
 
 `Python` `Streamlit`
 
@@ -75,11 +81,11 @@ Interactive Streamlit dashboard for Indian vehicle analytics.
 
 ## 🏏 IPL Winner Prediction
 
-🔗 **Repository:** <https://github.com/sriharikante/IPL_Winner_Prediction>
+Machine Learning project for predicting IPL match outcomes.
 
-Machine Learning model predicting IPL match winners.
+🔗 **Repository:** [IPL Winner Prediction](https://github.com/sriharikante/IPL_Winner_Prediction)
 
-**Tech**
+**Tech Stack**
 
 `Python` `Machine Learning`
 
@@ -87,11 +93,11 @@ Machine Learning model predicting IPL match winners.
 
 ## 🏫 School API
 
-🔗 **Repository:** <https://github.com/sriharikante/School-api>
+REST API for managing school data with CRUD operations.
 
-REST API for school management.
+🔗 **Repository:** [School API](https://github.com/sriharikante/School-api)
 
-**Tech**
+**Tech Stack**
 
 `Node.js` `JavaScript`
 
@@ -99,21 +105,21 @@ REST API for school management.
 
 ## 🌐 Personal Portfolio
 
-🔗 **Repository:** <https://github.com/sriharikante/sriharii-portfolio>
+Personal portfolio showcasing projects, skills and experience.
 
-Personal developer portfolio.
+🔗 **Repository:** [Portfolio](https://github.com/sriharikante/sriharii-portfolio)
 
-**Tech**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mysql,git,github,postman,java,python,vscode" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,nodejs,express,mysql,git,github,postman,vscode,java,python" />
 
 </p>
 
@@ -123,15 +129,15 @@ Personal developer portfolio.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharikante&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=sriharikante&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sriharikante&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikante&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -151,7 +157,7 @@ Personal developer portfolio.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sriharikante/sriharikante/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sriharikante/sriharikante/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </p>
 
@@ -169,8 +175,10 @@ Personal developer portfolio.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting!
 
-Always learning. Always building. 🚀
+I'm always learning, building, and exploring new technologies.
+
+Feel free to connect or collaborate on exciting projects. 🚀
 
 </div>
