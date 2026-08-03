@@ -103,29 +103,6 @@ REST API for managing school data.
 `Node.js` `JavaScript`
 
 ---
-
-## 🌐 Personal Portfolio
-
-Portfolio website showcasing my projects and skills.
-
-🔗 Repository: https://github.com/sriharikante/sriharii-portfolio
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,nodejs,express,mysql,git,github,postman,vscode,java,python"/>
-
-</p>
-
----
-
 # 📌 Currently Working On
 
 * 🚀 Building modern full-stack web applications using **React.js**, **Node.js**, and **MySQL**
