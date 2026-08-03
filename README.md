@@ -98,9 +98,8 @@ My personal portfolio website showcasing projects, skills, and experience.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharikante&theme=tokyo-night&hide_border=true"/>
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sriharikante&theme=github-compact&hide_border=true"/>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -114,7 +113,9 @@ My personal portfolio website showcasing projects, skills, and experience.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sriharikante&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sriharikante&theme=onedark&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
