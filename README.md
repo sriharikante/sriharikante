@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+|+Node.js+|+Express.js+|+MySQL;Building+Responsive+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2EA6F5&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B,+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Responsive+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <h3>💻 Junior Full Stack Web Developer</h3>
 
