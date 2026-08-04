@@ -56,26 +56,31 @@ Passionate about building responsive, scalable and user-friendly web application
 ### 💎 HJ Jewels
 Responsive luxury jewellery website built using React.js featuring reusable components and category-based browsing.
 🔗 [Repository](https://github.com/sriharikante/HJ-Jewels)
+
 **Tech Stack:** `React.js` `JavaScript` `CSS3`
 
 ### 💰 Expense Tracker
 Expense tracking application with authentication, form validation and Spring Boot REST API integration.
 🔗 [Repository](https://github.com/sriharikante/Expense-tracker)
+
 **Tech Stack:** `Java` `Spring Boot` `REST API`
 
 ### 📈 Vehicle Analytics Dashboard
 Interactive Streamlit dashboard for analyzing Indian vehicle market trends.
 🔗 [Repository](https://github.com/sriharikante/vehicle-analytics-dashboard)
+
 **Tech Stack:** `Python` `Streamlit`
 
 ### 🏏 IPL Winner Prediction
 Machine Learning model for predicting IPL match outcomes.
 🔗 [Repository](https://github.com/sriharikante/IPL_Winner_Prediction)
+
 **Tech Stack:** `Python` `Machine Learning`
 
 ### 🏫 School API
 REST API for managing school data.
 🔗 [Repository](https://github.com/sriharikante/School-api)
+
 **Tech Stack:** `Node.js` `JavaScript`
 
 ---
