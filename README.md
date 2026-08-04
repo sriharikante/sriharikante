@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2EA6F5&center=true&vCenter=true&repeat=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Srihari+Kante;Junior+Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Responsive+and+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h2>💻 Junior Full Stack Web Developer</h2>
+<h2>💻 Full Stack Web Developer</h2>
 
 <p>
 Passionate about building responsive, scalable and user-friendly web applications.
