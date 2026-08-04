@@ -107,7 +107,8 @@ REST API for managing school data.
 - 🚀 Building modern full-stack web applications using **React.js**, **Node.js**, and **MySQL**
 - 📚 Practicing **Data Structures & Algorithms** in Java
 - 🤖 Exploring **AI integration** into web applications
-- 🧠 Sharpening problem-solving skills by solving DSA problems on **LeetCode/GFG**
+- 🧠 Sharpening problem-solving skills by solving DSA problems on **LeetCode
+- **
 - 🌐 Continuously improving my portfolio and open-source projects
 
 ---
