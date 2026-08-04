@@ -32,7 +32,6 @@ Passionate about building responsive, scalable and user-friendly web application
 - 🌱 Currently learning **AI**, **Java**, and scalable Full Stack Development
 - 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, REST APIs**
 - 🎯 Open to **Frontend Developer** and **Full Stack Developer** opportunities
-- 📍 Eluru, Andhra Pradesh, India
 
 ---
 
