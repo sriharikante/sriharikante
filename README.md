@@ -106,7 +106,6 @@ REST API for managing school data.
 - 📚 Practicing **Data Structures & Algorithms** in Java
 - 🤖 Exploring **AI integration** into web applications
 - 🧠 Sharpening problem-solving skills by solving DSA problems on **LeetCode
-- **
 - 🌐 Continuously improving my portfolio and open-source projects
 
 ---
